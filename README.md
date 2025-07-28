@@ -4,7 +4,7 @@
     <meta charset="UTF-8">
 </head>
 <body>
-    <h2 align="center">Panduan Nama Warna HTML</h2>
+    <h2 align="center">Colour Helper HTML</h2>
     <table border="1" cellspacing="2" cellpadding="8" align="center">
         <tr>
             <th>Biru</th>
