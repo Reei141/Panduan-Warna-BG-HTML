@@ -2,7 +2,6 @@
 <html>
 <head>
     <meta charset="UTF-8">
-    <title>Tabel Nama Warna HTML</title>
 </head>
 <body>
     <h2 align="center">Panduan Nama Warna HTML</h2>
